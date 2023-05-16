@@ -66,6 +66,7 @@ header > h1 {
 nav{
     background-color: var(--cor4);
     padding: 10px;
+    max-width: 100%;
 }
 
 nav > a{
